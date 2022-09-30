@@ -4,7 +4,7 @@ Project to create a fully-featured OSIS XML file of the so-called [Professorenbi
 Source: [DBNL](https://www.dbnl.org/tekst/_hei009heil08_01/) 1933 unchanged reprint of the 1894-1911 original
 
 ## Copyright status
-As an extra verification of its public domain status. Still looking for the death date of one person.
+As an extra verification of its public domain status.
 
 Part 1: [Petrus Laurentius Dessens (†1929)](https://www.openarch.nl/elo:7b0d154e-fd10-c5ae-1ed7-c9be2d794cca/nl)
 
@@ -14,7 +14,7 @@ Part 3: Andreas Jansen (†1938), [George van Zinnicq Bergmann (†1910)](https:
 
 Part 4: [Joseph Hubertus Drehmans (†1913)](http://resources.huygens.knaw.nl/bwn1780-1830/BWN/lemmata/bwn1/drehmans)
 
-Part 5: [Dr. H.J.Th. Brouwer (1850-???)](https://archiefeemland.courant.nu/issue/DEB/1915-08-10/edition/0/page/3?query=), Joseph Schets (†1917), Dominicus Andreas Willem Hendrik Sloet (†1938), J.M. van Oers (†1945), Andreas Jansen (†1938)
+Part 5: [Dr. Hendrikus Johannes Theodorus Brouwer (†1919)](http://www.genealogy.henny-savenije.pe.kr/tng/getperson.php?personID=I634142&tree=savenije), Joseph Schets (†1917), Dominicus Andreas Willem Hendrik Sloet (†1938), J.M. van Oers (†1945), Andreas Jansen (†1938)
 
 Part 6: Joseph Schets (†1917) 
 
