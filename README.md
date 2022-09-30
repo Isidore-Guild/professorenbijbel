@@ -8,7 +8,7 @@ As an extra verification of its public domain status. Still looking for the deat
 
 Part 1: [Petrus Laurentius Dessens (†1929)](https://www.openarch.nl/elo:7b0d154e-fd10-c5ae-1ed7-c9be2d794cca/nl)
 
-Part 2: [Dominicus Andreas Willem Hendrik Sloet (†1938)](http://nl.wikisage.org/wiki/Dominicus_Andreas_Willem_Hendrik_Sloet), [Andreas Jansen (†1938)](http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn5/jansenj), Jos. (=Joseph??) Schets (???) 
+Part 2: [Dominicus Andreas Willem Hendrik Sloet (†1938)](http://nl.wikisage.org/wiki/Dominicus_Andreas_Willem_Hendrik_Sloet), [Andreas Jansen (†1938)](http://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn5/jansenj), [Joseph Schets](https://en.wikisource.org/wiki/Author:Joseph_Schets) (1854-???) 
 
 Part 3: Andreas Jansen (†1938), [George van Zinnicq Bergmann (†1910)](https://wikimiddenbrabant.nl/George_van_Zinnicq_Bergmann), [J.M. van Oers (†1945)](https://gw.geneanet.org/hieron?lang=nl&n=van+oers&oc=0&p=johannes+marinus), [G.J.M. Kabel (†1922)](https://www.lambertuskerk-rotterdam.nl/data/pam/public/informatie/begraafplaats/grafregister.pdf)
 
