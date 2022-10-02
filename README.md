@@ -1,6 +1,11 @@
 # Professorenbijbel
 Project to create a fully-featured OSIS XML file of the so-called [Professorenbijbel](https://nl.wikipedia.org/wiki/Professorenbijbel).
 
+Module generated with the following command:
+```bash
+osis2mod output professorenbijbel.xml -z -b 4 -s 4 -v Vulg
+```
+
 Source: [DBNL](https://www.dbnl.org/tekst/_hei009heil08_01/) 1933 unchanged reprint of the 1894-1911 original
 
 ## Copyright status
